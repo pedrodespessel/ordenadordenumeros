@@ -1,0 +1,23 @@
+*{text-align: center;
+padding: 0%;
+margin: auto;
+}
+header{color: rgb(255, 255, 0);
+    margin-bottom: 5vw;
+    margin-top: 5vw;}
+body{background-color: rgb(70, 70, 70);
+    }
+section{border: 3px solid#000;
+    text-align: right; 
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 2vw;}
+#pv {width: 20vh;}
+#botao{width: 20vh; 
+    font-size: 120%;
+    margin-bottom: 5vw;
+    margin-top: 5vw;}
+#botao:hover {background-color:green;
+    box-shadow: rgb(0, 0, 0) 1vh 1vh 1vh;}
+footer{margin-top: vw;}
